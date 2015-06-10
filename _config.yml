@@ -1,9 +1,9 @@
 url: http://www.qwackapp.com
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: QwackApp
+email: info@qwackapp.com
+description: "Qwack is an app that will help drivers stay awake, by conversing with other drivers, all around the world, based on their common interests."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,9 +13,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Guido
   pic: 1
-  position: Lead Designer
+  position: Lead Qwacker
   social:
     - title: twitter
       url: #
@@ -24,9 +24,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Alon
   pic: 2
-  position: Lead Marketer
+  position: Finance Qwacker
   social:
     - title: twitter
       url: #
@@ -35,9 +35,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Liran
   pic: 3
-  position: Lead Developer
+  position: Marketing Qwacker
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Mati
+  pic: 4
+  position: Tech Qwacker
   social:
     - title: twitter
       url: #
