@@ -17,45 +17,37 @@ people:
   pic: 1
   position: Lead Qwacker
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/gsende
+    - title: linkedin
+      url: https://www.linkedin.com/in/gsende
 
 - name: Alon
   pic: 2
   position: Finance Qwacker
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/alon.sela.5
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/selaalon
 
 - name: Liran
   pic: 3
   position: Marketing Qwacker
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/liran.rozen.3
+    - title: linkedin
+      url: https://www.linkedin.com/pub/liran-rozen/9b/a77/90
 
 - name: Mati
   pic: 4
   position: Tech Qwacker
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/mati.kochen
+    - title: linkedin
+      url: https://www.linkedin.com/in/matikochen
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
