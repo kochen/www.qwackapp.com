@@ -14,7 +14,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Guido
-  pic: 1
+  pic: guido
   position: Lead Qwacker
   social:
     - title: facebook
@@ -23,7 +23,7 @@ people:
       url: https://www.linkedin.com/in/gsende
 
 - name: Alon
-  pic: 2
+  pic: alon
   position: Finance Qwacker
   social:
     - title: facebook
@@ -32,7 +32,7 @@ people:
       url: https://www.linkedin.com/in/selaalon
 
 - name: Liran
-  pic: 3
+  pic: liran
   position: Marketing Qwacker
   social:
     - title: facebook
@@ -41,7 +41,7 @@ people:
       url: https://www.linkedin.com/pub/liran-rozen/9b/a77/90
 
 - name: Mati
-  pic: 4
+  pic: mati
   position: Tech Qwacker
   social:
     - title: facebook
