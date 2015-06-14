@@ -299,14 +299,15 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 400px;
+        padding-bottom: 100px;
+        color: #{{ site.color.primary }};
     }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: 50px;
         font-style: italic;
         line-height: 40px;
     }
