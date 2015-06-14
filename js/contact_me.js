@@ -18,14 +18,15 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
-                type: "POST",
+                url: "http://formspree.io/info@qwackapp.com",
+                method: "POST",
                 data: {
                     name: name,
-                    phone: phone,
                     email: email,
-                    message: message
+                    message: message,
+                    _subject: "You've got Mail"
                 },
+                dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message
