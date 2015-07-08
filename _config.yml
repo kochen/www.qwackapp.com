@@ -70,3 +70,8 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Enter your Mailchimp User ID and Campaign ID
+mailchimp:
+  user-id: qwackapp
+  list-id: qwackers
