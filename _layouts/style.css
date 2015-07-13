@@ -3,8 +3,8 @@
 
 #join input { display: inline-block; }
 
-#join input[type=email] { width: 300px; }
-#join input[type=text] { width: 200px; }
+#join input[type=email],
+#join input[type=text] { width: 300px; }
 
 
 section#contact .form-group textarea.form-control {
