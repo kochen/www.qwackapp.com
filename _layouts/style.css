@@ -1,7 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 
-#join { padding: 45px 0; }
+#join { padding: 120px 0 45px; }
 #join input { display: inline-block; }
 #join input[type="email"] { width: 300px; }
 
