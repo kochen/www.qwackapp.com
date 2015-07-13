@@ -1,9 +1,9 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 
-#newsletter { padding: 45px 0; }
-#newsletter input { display: inline-block; }
-#newsletter input[type="email"] { width: 300px; }
+#join { padding: 45px 0; }
+#join input { display: inline-block; }
+#join input[type="email"] { width: 300px; }
 
 section#contact .form-group textarea.form-control {
     height: 245px;
