@@ -8,3 +8,8 @@
 section#contact .form-group textarea.form-control {
     height: 245px;
 }
+
+video {
+    width: 100%    !important;
+    height: auto   !important;
+}
