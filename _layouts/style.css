@@ -1,7 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 
-#join input { display: inline-block; }
+#join input { display: inline-block; margin-bottom: 10px; }
 
 #join input[type=email],
 #join input[type=text] { width: 300px; }
