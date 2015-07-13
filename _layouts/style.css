@@ -2,7 +2,10 @@
 {% include css/agency.css %}
 
 #join input { display: inline-block; }
-#join input[type="email"] { width: 300px; }
+
+#join input[type=email] { width: 300px; }
+#join input[type=text] { width: 200px; }
+
 
 section#contact .form-group textarea.form-control {
     height: 245px;
