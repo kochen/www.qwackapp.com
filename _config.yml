@@ -49,6 +49,17 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/matikochen
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/qwackapp
+  - title: instagram
+    url: https://www.instagram.com/qwackapp
+  - title: twitter
+    url: https://www.twitter.com/qwackapp
+  - title: linkedin
+    url: https://www.linkedin.com/company/qwack-
+
 # Build settings
 markdown: kramdown
 permalink: pretty
