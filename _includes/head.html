@@ -32,6 +32,9 @@
     <meta property="og:image:width" content="256" />
     <meta property="og:image:height" content="256" />
 
+    {% if site.google.verify %}<!-- Webmaster Tools verfication -->
+    <meta name="google-site-verification" content="{{ site.google.verify }}">{% endif %}
+
     <meta name="viewport" content="width=device-width">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 

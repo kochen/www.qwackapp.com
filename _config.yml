@@ -68,3 +68,8 @@ permalink: pretty
 mailchimp:
   user-id: qwackapp
   list-id: qwackers
+
+# Google
+google:
+  analytics: UA-64083684-1
+  verify: rzmNT__dSXJb5mmXIV6vf132hvg20h27iOdnmQs2Hg8
