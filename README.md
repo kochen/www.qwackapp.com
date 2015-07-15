@@ -1,30 +1,12 @@
-Agency Jekyll theme
-====================
+Qwack - your wake up call
+=========================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Qwack is an app that will help drivers stay awake, by conversing with other drivers, all around the world, based on their common interests.
 
-# How to use
+# Follow us
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+[Website](http://www.qwackapp.com) | 
+[Facebook](https://www.facebook.com/qwackapp) | 
+[Instagram](https://www.instagram.com/qwackapp) | 
+[Twitter](https://www.twitter.com/qwackapp) |
+[LinedIn](https://www.linkedin.com/company/qwack-)
